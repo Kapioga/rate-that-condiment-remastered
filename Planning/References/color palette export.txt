@@ -1,0 +1,35 @@
+/* Coolors Exported Palette - https://coolors.co/bdd9bf-2e4052-ffc857-ffffff-412234 */
+
+- Tailwind
+
+{ 'tea_green': { DEFAULT: '#bdd9bf', 100: '#1e341f', 200: '#3c683f', 300: '#599b5e', 400: '#8abc8e', 500: '#bdd9bf', 600: '#cbe1cd', 700: '#d8e9d9', 800: '#e5f0e6', 900: '#f2f8f2' }, 'charcoal': { DEFAULT: '#2e4052', 100: '#090d10', 200: '#121921', 300: '#1c2631', 400: '#253341', 500: '#2e4052', 600: '#496683', 700: '#6c8cac', 800: '#9db2c8', 900: '#ced9e3' }, 'sunglow': { DEFAULT: '#ffc857', 100: '#442e00', 200: '#895b00', 300: '#cd8900', 400: '#ffb012', 500: '#ffc857', 600: '#ffd278', 700: '#ffdd9a', 800: '#ffe9bc', 900: '#fff4dd' }, 'white': { DEFAULT: '#ffffff', 100: '#333333', 200: '#666666', 300: '#999999', 400: '#cccccc', 500: '#ffffff', 600: '#ffffff', 700: '#ffffff', 800: '#ffffff', 900: '#ffffff' }, 'dark_purple': { DEFAULT: '#412234', 100: '#0d070a', 200: '#190d14', 300: '#26141f', 400: '#331b29', 500: '#412234', 600: '#763e5e', 700: '#a95d89', 800: '#c693b1', 900: '#e2c9d8' } }
+
+- CSV
+
+bdd9bf,2e4052,ffc857,ffffff,412234
+
+- With #
+
+#bdd9bf, #2e4052, #ffc857, #ffffff, #412234
+
+- Array
+
+["bdd9bf","2e4052","ffc857","ffffff","412234"]
+
+- Object
+
+{"Tea green":"bdd9bf","Charcoal":"2e4052","Sunglow":"ffc857","White":"ffffff","Dark purple":"412234"}
+
+- Extended Array
+
+[{"name":"Tea green","hex":"bdd9bf","rgb":[189,217,191],"cmyk":[13,0,12,15],"hsb":[124,13,85],"hsl":[124,27,80],"lab":[84,-14,10]},{"name":"Charcoal","hex":"2e4052","rgb":[46,64,82],"cmyk":[44,22,0,68],"hsb":[210,44,32],"hsl":[210,28,25],"lab":[26,-2,-13]},{"name":"Sunglow","hex":"ffc857","rgb":[255,200,87],"cmyk":[0,22,66,0],"hsb":[40,66,100],"hsl":[40,100,67],"lab":[84,8,62]},{"name":"White","hex":"ffffff","rgb":[255,255,255],"cmyk":[0,0,0,0],"hsb":[0,0,100],"hsl":[0,0,100],"lab":[100,0,0]},{"name":"Dark purple","hex":"412234","rgb":[65,34,52],"cmyk":[0,48,20,75],"hsb":[325,48,25],"hsl":[325,31,19],"lab":[18,18,-5]}]
+
+- XML
+
+<palette>
+  <color name="Tea green" hex="bdd9bf" r="189" g="217" b="191" />
+  <color name="Charcoal" hex="2e4052" r="46" g="64" b="82" />
+  <color name="Sunglow" hex="ffc857" r="255" g="200" b="87" />
+  <color name="White" hex="ffffff" r="255" g="255" b="255" />
+  <color name="Dark purple" hex="412234" r="65" g="34" b="52" />
+</palette>
