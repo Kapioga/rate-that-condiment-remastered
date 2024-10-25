@@ -31,8 +31,10 @@ After Multiple revisions, I revamped the first draft and utilized inspirations f
 ### HOME PAGE
 ![Final Artboard](https://github.com/user-attachments/assets/799a1946-f865-4a88-8751-8b6aedce9bd8)
 
+### CONTENT PAGE
+![Final Artboard Content](https://github.com/user-attachments/assets/bd8f4c56-0827-46cf-92e7-c54557d1b476)
 
-#Photography Credits:
+# Photography Credits:
 
 Maple Syrup: https://www.pexels.com/@chitokan
 Ketchup, Mustard: https://www.pexels.com/@cottonbro
@@ -40,5 +42,3 @@ Honey: https://www.pexels.com/@valeriya
 Salt and Pepper: https://www.pexels.com/@kaboompics
 Chicken Mcckay: https://www.pexels.com/@chicken-mackay-3652946
 Hot Sauce: https://www.pexels.com/@rodnae-prod
-### CONTENT PAGE
-![Final Artboard Content](https://github.com/user-attachments/assets/bd8f4c56-0827-46cf-92e7-c54557d1b476)
